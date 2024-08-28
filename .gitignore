@@ -1,0 +1,10 @@
+.idea
+.vscode/*
+!.vscode/launch.json
+node_modules
+.eslintcache
+.Trash-0/
+.ipynb_checkpoints/
+.tmp/
+__pycache__
+*.pyc
